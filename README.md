@@ -78,7 +78,7 @@ To explore the data and reproduce the results:
 ## 🧪 Citation
 
 Please cite the manuscript if you use this dataset or code in your work:  
-> **[Full citation will go here once published]**
+> **[Full citation will be placed here once published]**
 
 ---
 
