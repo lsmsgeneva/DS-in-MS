@@ -68,7 +68,7 @@ Contains thermodynamic and electronic descriptors related to the formation and s
 
 To explore the data and reproduce the results:
 
-1. Open the [Google Colab notebook](https://colab.research.google.com/) *(this is temporary link!)*  
+1. Open the [Google Colab notebook](https://colab.research.google.com/drive/1XRcTpjF-neawC1fsyu8iWIi4iZr-hRvv#scrollTo=zIbHOjoxnHIz)
 2. All three files are loaded directly from this repository.  
 3. No Google Drive connection is required — data can be saved and downloaded from the session.  
 4. Visualizations of molecular structures and protonation sites are rendered with RDKit.
